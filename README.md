@@ -4,13 +4,6 @@
 
 With hands-on experience in PySpark, SQL, Databricks, Kafka, and cloud platforms (Azure, AWS, GCP), I love turning data into smart, scalable solutions. Always curious, I keep exploring the latest in AI, automation, and data engineering to create meaningful impact.**
 
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=default"/>
-</div>
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
@@ -54,4 +47,7 @@ With hands-on experience in PySpark, SQL, Databricks, Kafka, and cloud platforms
 ---
 ⭐️ From [ala fezai](https://github.com/)
 
-
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
+</div>
